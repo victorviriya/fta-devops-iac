@@ -33,7 +33,7 @@ variables:
 
   # deployWith options 'arm','terraform','ansible'
   - name: deployWith
-    value: 'terraform'
+    value: 'arm'
     
   - name: user
     value: 'wviriya'
