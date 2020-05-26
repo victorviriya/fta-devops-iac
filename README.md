@@ -10,6 +10,8 @@ level: 200
 
 This sample is a guide to help DevOps engineer learn ARM, Terraform and Ansible. There are links in this document that can help better understand these services.
 
+## [What is Infrastructure as Code?](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code)
+
 ## Azure Resource Manager (ARM) Template
 
 ### Concepts
